@@ -1,6 +1,9 @@
 header, .nav-list {
 background-color: #1F2937;
-display: flex;
+}
+
+.nav-list {
+    display: flex;
 }
 
 footer {
