@@ -1,8 +1,8 @@
 .nav-list {
 background-color: #1F2937;
 display: flex;
-margin: 0;
-padding: 0;
+margin: 0px;
+padding: 0px;
 list-style: none;
 gap: 1rem;
 }
