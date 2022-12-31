@@ -6,7 +6,7 @@ gap: 1rem;
 
 list-style: none;
 background-color: #1F2937;
-
+align-items: flex-end;
 }
 
 .nav-list li {
