@@ -3,7 +3,7 @@ background-color: #1F2937;
 }
 
 .nav-list {
-    display: flex;
+    display: block;
 }
 
 footer {
