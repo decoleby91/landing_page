@@ -8,6 +8,7 @@ gap: 1rem;
 }
 
 .nav-list li {
+    flex-wrap: 0;
     flex-shrink: 1;
 }
 
