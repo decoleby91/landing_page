@@ -2,7 +2,7 @@
 This is an assignment from The Odin Project: Landing Page
 
 ## This is the deployment link
-
+https://decoleby91.github.io/landing_page/
 
 ### The link the Github repository 
 https://github.com/decoleby91/landing_page
