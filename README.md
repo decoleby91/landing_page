@@ -23,3 +23,6 @@ Download the design images and take a look at what you’re going to be creating
 
 #### The Odin Project Link
 https://www.theodinproject.com/lessons/foundations-landing-page
+
+##### The link to the full web page
+https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png
